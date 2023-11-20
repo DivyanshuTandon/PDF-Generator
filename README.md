@@ -26,14 +26,22 @@ Usage
 
 Start the application:
 npm start
+
+
 The server will start on port 3000 by default. You can access the API endpoint at http://localhost:3000/documents.
+
+
 Send a GET request to the /documents endpoint to generate a PDF file.
+
+
 API Endpoint
 
 /documents
 
 Method: GET
 Description: Generates a PDF file based on a predefined template.
+
+
 Response: The generated PDF file will be sent as a response with the filename generated.pdf.
 Template
 
