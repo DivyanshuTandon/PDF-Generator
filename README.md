@@ -39,7 +39,7 @@ The server will start on port 3000 by default. You can access the API endpoint a
 
 `/documents`
 
-- **Method**: GET
+- **Method**: `GET`
 - **Description**: Generates a PDF file based on a predefined template.
 - **Response**: The generated PDF file will be sent as a response with the filename `generated.pdf`.
 
