@@ -14,8 +14,12 @@ Installation
 
 Clone the repository:
 git clone https://github.com/DivyanshuTandon/PDF-Generator.git
+
+
 Navigate to the project directory:
 cd node-pdf-generator
+
+
 Install dependencies:
 npm install
 Usage
