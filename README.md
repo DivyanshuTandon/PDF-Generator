@@ -61,4 +61,5 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <span style="color:blue">LICENSE</span> file for details.
+
