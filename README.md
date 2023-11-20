@@ -50,8 +50,14 @@ The application uses EJS (Embedded JavaScript) for template rendering. You can c
 Dependencies
 
 Express.js: Fast, unopinionated, minimalist web framework for Node.js.
+
+
 Puppeteer: Headless Chrome browser automation library.
+
+
 EJS: Embedded JavaScript templating.
+
+
 Contributing
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are welcome!
